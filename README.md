@@ -102,4 +102,9 @@ Link pull requests to issues using Fixes #issue_number.
 
 GitHub Projects Documentation
 
+## 📌 Project Board
+Track progress on the [Kanban Board](https://github.com/users/uzma4794/projects/5).
+
+
+
 ZenHub Documentation
