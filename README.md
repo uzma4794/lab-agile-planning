@@ -100,11 +100,13 @@ Link pull requests to issues using Fixes #issue_number.
 
 # 📚 Resources
 
-GitHub Projects Documentation
+[GitHub Projects Documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects)
+[ZenHub Documentation](https://help.zenhub.com/support/home)
 
 ## 📌 Project Board
 Track progress on the [Kanban Board](https://github.com/users/uzma4794/projects/5).
+## ⚡ ZenHub Board
+For advanced project tracking, visit the [ZenHub Board]((https://app.zenhub.com/workspaces/lab-agile-planning-68ae9944a341ca0031872b73/board).
 
 
 
-ZenHub Documentation
